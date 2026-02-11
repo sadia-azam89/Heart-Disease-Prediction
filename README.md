@@ -2,6 +2,7 @@
 Heart Disease Prediction  A Machine Learning project that predicts whether a person is at risk of heart disease using health-related attributes from the UCI Heart Disease dataset.
 Project Objective
 To build and evaluate a classification model that predicts the likelihood of heart disease based on medical and demographic features.
+
 📊 Dataset
 Dataset: UCI Heart Disease Dataset
 Source: Kaggle
